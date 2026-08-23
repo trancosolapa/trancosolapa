@@ -6,16 +6,16 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/trancosolapa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img width="150" src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
   </a>
   <a href="https://discord.com/users/1203455503422980199" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://open.spotify.com/user/31vj2ckfi772n6gq6pni7baevnwm?si=341fa7a54f6a433e" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="30" alt="spotify logo"  />
+    <img width="150" src="https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
   </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-trancoso-05713a427/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img width="150" src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+  </a>
+  <a href="https://open.spotify.com/user/31vj2ckfi772n6gq6pni7baevnwm?si=341fa7a54f6a433e" target="_blank">
+    <img width="150" src="https://img.shields.io/badge/Spotify-1a1a2e?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify logo" />
   </a>
 </div>
 
