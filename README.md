@@ -4,26 +4,26 @@
 
 ###
 
-<table data-importer="socials" align="center">
+<table data-importer="socials" align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="150" align="center">
+    <td align="center">
       <a href="https://www.instagram.com/trancosolapa/" target="_blank">
-        <img width="150" src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge" alt="instagram" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=INSTAGRAM" alt="instagram" />
       </a>
     </td>
-    <td width="150" align="center">
+    <td align="center">
       <a href="https://discord.com/users/1203455503422980199" target="_blank">
-        <img width="150" src="https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge" alt="discord" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=DISCORD" alt="discord" />
       </a>
     </td>
-    <td width="150" align="center">
+    <td align="center">
       <a href="https://www.linkedin.com/in/andr%C3%A9-trancoso-05713a427/" target="_blank">
-        <img width="150" src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge" alt="linkedin" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=LINKEDIN" alt="linkedin" />
       </a>
     </td>
-    <td width="150" align="center">
+    <td align="center">
       <a href="https://open.spotify.com/user/31vj2ckfi772n6gq6pni7baevnwm?si=341fa7a54f6a433e" target="_blank">
-        <img width="150" src="https://img.shields.io/badge/Spotify-1a1a2e?style=for-the-badge" alt="spotify" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=SPOTIFY" alt="spotify" />
       </a>
     </td>
   </tr>
