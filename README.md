@@ -1,3 +1,9 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <img data-importer="image" align="right" height="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt2MW8yMWI5cTdjZWs1Yml5Mnltem9zZjFhYTE1dXZ5NmxhZ2Q0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r1OWPOV8dPCzOtT7mk/200.webp"  />
 
 ###
@@ -31,10 +37,8 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/andretrancoso">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=andretrancoso&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=25&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
