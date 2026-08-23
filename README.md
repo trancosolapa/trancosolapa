@@ -4,26 +4,26 @@
 
 ###
 
-<table data-importer="socials" align="center" border="0" cellspacing="0" cellpadding="0">
+<table data-importer="socials" align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://www.instagram.com/trancosolapa/" target="_blank">
-        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=INSTAGRAM" alt="instagram" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=INSTAGRAM" alt="instagram" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://discord.com/users/1203455503422980199" target="_blank">
-        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=DISCORD" alt="discord" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=DISCORD" alt="discord" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/andr%C3%A9-trancoso-05713a427/" target="_blank">
-        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=LINKEDIN" alt="linkedin" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=LINKEDIN" alt="linkedin" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://open.spotify.com/user/31vj2ckfi772n6gq6pni7baevnwm?si=341fa7a54f6a433e" target="_blank">
-        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=SPOTIFY" alt="spotify" />
+        <img width="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=100000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=150&height=50&lines=SPOTIFY" alt="spotify" />
       </a>
     </td>
   </tr>
