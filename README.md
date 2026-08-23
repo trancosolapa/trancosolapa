@@ -6,18 +6,28 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/trancosolapa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="30" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/1203455503422980199" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="30" alt="discord logo"  />
   </a>
   <a href="https://open.spotify.com/user/31vj2ckfi772n6gq6pni7baevnwm?si=341fa7a54f6a433e" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=plastic" height="30" alt="spotify logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="35" height="30" alt="spotify logo"  />
   </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-trancoso-05713a427/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="30" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trancosolapa/trancosolapa/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trancosolapa/trancosolapa/output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trancosolapa/trancosolapa/output/bomberman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -30,16 +40,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trancosolapa/trancosolapa/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trancosolapa/trancosolapa/output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trancosolapa/trancosolapa/output/bomberman-contribution-graph.svg">
-</picture>
 
 ###
 
