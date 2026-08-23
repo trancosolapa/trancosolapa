@@ -4,6 +4,12 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <img data-importer="image" align="right" height="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt2MW8yMWI5cTdjZWs1Yml5Mnltem9zZjFhYTE1dXZ5NmxhZ2Q0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r1OWPOV8dPCzOtT7mk/200.webp"  />
 
 ###
